@@ -100,6 +100,9 @@ Insights Derived:
 - Which cities and payment methods should be prioritized?
 - Are customer satisfaction levels improving over time?
 
-Business Performance Monitoring
+**Dashboard Snapshots :**
 
-Executive & Management Reporting
+Main : ![](https://github.com/yashshukla07/Mobile_Sales_Dashboard/blob/main/Mobile_Sales_Dashboard.png)
+MTD Sales : ![](https://github.com/yashshukla07/Mobile_Sales_Dashboard/blob/main/MTD_Sales.png)
+Year Comparision : ![](https://github.com/yashshukla07/Mobile_Sales_Dashboard/blob/main/Year_Wise_Sales.png)
+
